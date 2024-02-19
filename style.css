@@ -60,6 +60,8 @@ h2 {
   border: 1px solid transparent;
   display: inline-block;
   font-weight: 700;
+  line-height: 20px;
+  color: white;
 }
 
 .link-button:hover,
@@ -116,6 +118,7 @@ header {
   align-items: center;
   border-bottom: 1px solid white;
   background: #060606;
+  z-index: 10;
 }
 
 header > div {
