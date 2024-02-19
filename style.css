@@ -606,6 +606,15 @@ footer h4 {
   letter-spacing: 4px;
 }
 
+footer h4 a,
+footer h4 a:visited {
+  color: #00f6ff;
+}
+
+footer h4 a:active {
+  text-decoration: underline;
+}
+
 .footer__links {
   margin-top: 24px;
   display: flex;
